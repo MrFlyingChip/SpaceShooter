@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8716e993ceec96643a38cb0a3bb60087
+timeCreated: 1489238025
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CF Spaceship
+  fontNames:
+  - CF Spaceship
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
